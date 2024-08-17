@@ -1,4 +1,4 @@
-#🌍 Taş, Kağıt, Makas, Buz Oyunu
+🌍# Taş, Kağıt, Makas, Buz Oyunu
 ##🎯 Projenin Amacı
 Bu proje, klasik "Taş, Kağıt, Makas" oyununu bir adım öteye taşıyarak oyuna "Buz" adlı dördüncü bir seçenek eklemeyi amaçlamaktadır. Kullanıcı ve bilgisayar arasında oynanan bu oyunda, her biri farklı kurallara göre birbirine karşı galip gelen veya mağlup olan dört seçenek mevcuttur.
 
